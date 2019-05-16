@@ -1,4 +1,8 @@
-https://www.right.com.cn/forum/thread-396149-1-1.html
-
 节目表地址：
 http://epg.51zmt.top:8000/e.xml
+
+格式如下
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690621284_114.png" tvg-name="CCTV1" group-title="央视台",CCTV-1综合HD
+
+帖子的内容
+https://www.right.com.cn/forum/thread-396149-1-1.html
